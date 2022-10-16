@@ -1,10 +1,13 @@
-<h1 align="center">Hi 👋, I'm Pratyaksha Newalkar</h1>
-<h3 align="center">I am developer and a competitive programmar</h3>
+Hi 👋, I'm Pratyaksha Newalkar
+===============================
 
-- 🌱 I’m currently learning **C++,Python,DSA**
+Developer and a Competitive programmar
+--------------------------------------
 
-- 📫 How to reach me **pratyakshanewalkar@gmail.com**
-
+ * 🌍 I'm from Uttar Pradesh, India
+ * 📫 You can contact me at [pratyakhashanewalkar@gmail.com](mailto:pratyakshanewalkar@gmail.com)
+ * 🧠 I'm learning Machine Learning and Quantum Computing
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/amartya9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/amartya9" height="30" width="40" /></a>
