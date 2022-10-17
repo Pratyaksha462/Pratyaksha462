@@ -21,4 +21,5 @@ Developer and a Competitive programmar
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyaksha462&show_icons=true&locale=en" alt="pratyaksha462" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyaksha462&" alt="pratyaksha462" /></p>
+
 [![@pratnew's Holopin board](https://holopin.me/pratnew)](https://holopin.io/@pratnew)
