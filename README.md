@@ -1,10 +1,15 @@
-Hi 👋, I'm Pratyaksha Newalkar
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+👋+!+Great+to+have+you+here)](https://git.io/typing-svg)
+
+
+Myself,Pratyaksha Newalkar
 ===============================
 
 Developer and a Competitive programmar
 --------------------------------------
 
+
  * 🌍 I'm from Uttar Pradesh, India
+ * :books: Indian Institute Of Information Technology,Bhopal
  * 📫 You can contact me at [pratyakhashanewalkar@gmail.com](mailto:pratyakshanewalkar@gmail.com)
  * 🧠 I'm learning Machine Learning and Quantum Computing
  
