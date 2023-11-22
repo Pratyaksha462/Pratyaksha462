@@ -3,8 +3,7 @@
 
 Myself,Pratyaksha Newalkar
 ===============================
-
-Developer and a Competitive programmar
+A learner.
 --------------------------------------
 
 
